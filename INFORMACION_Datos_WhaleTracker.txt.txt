@@ -1,0 +1,49 @@
+===================================================
+      WHALE TRACKER PRO - UBICACIÓN DE DATOS
+===================================================
+
+Estimado cliente,
+
+Para que sepas dónde se guardan tus configuraciones, sonidos personalizados y registros de operaciones, la aplicación utiliza una carpeta especial en tu computadora.
+
+📁 Ruta exacta (Windows):
+
+    %APPDATA%\WhaleTracker
+
+¿Cómo acceder rápidamente?
+
+1. Abre el Explorador de archivos (carpetas).
+2. En la barra de direcciones, copia y pega exactamente esto:
+
+    %APPDATA%\WhaleTracker
+
+3. Presiona Enter.
+
+Automáticamente te llevará a una carpeta como:
+
+    C:\Usuarios\TU_USUARIO\AppData\Roaming\WhaleTracker
+
+Allí encontrarás:
+
+✅ config.json       → Tu configuración (parámetros, Telegram, sonidos, perfiles...)
+✅ logs\             → Todos los registros de operaciones (archivos CSV por día y símbolo)
+✅ sounds\           → Los sonidos personalizados que hayas subido
+✅ license.dat       → Archivo de licencia (no lo borres)
+
+¿Por qué se guarda ahí y no junto al programa?
+
+- Para que al actualizar la aplicación (reemplazar el .exe) NO pierdas tus datos.
+- Para que cada usuario de la misma PC tenga su propia configuración.
+- Para que la aplicación pueda escribir archivos sin problemas de permisos.
+
+🔒 ¿Puedo borrar estos archivos?
+
+- Si borras config.json, la app volverá a la configuración de fábrica.
+- Si borras la carpeta logs, perderás el historial de operaciones.
+- Si borras license.dat, tendrás que reactivar la licencia (si tienes dudas, contacta con soporte).
+
+¡Importante! Si necesitas hacer una copia de seguridad o transferir tu configuración a otro equipo, solo tienes que copiar toda la carpeta WhaleTracker.
+
+Para cualquier duda, escríbenos a: baxcripz1989@gmail.com
+
+Gracias por usar Whale Tracker Pro.
