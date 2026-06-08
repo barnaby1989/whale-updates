@@ -169,8 +169,4 @@ Queda estrictamente prohibida la copia no autorizada, distribución, modificaci�
 
 Al ejecutar y utilizar este software, aceptas los términos y condiciones establecidos en el archivo (DISCLAIMER.txt). Es obligatorio leer dicho documento antes del primer uso.
 
----
 
-## 💬 Soporte (Para Usuarios con Licencia)
-
-Si tienes dudas durante la instalación o el uso de tus 5 Machine IDs autorizados, contáctanos a través de los canales provistos tras tu compra en Payhip.
