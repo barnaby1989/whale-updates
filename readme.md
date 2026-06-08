@@ -81,11 +81,7 @@ Unauthorized copying, distribution, modification, secondary commercial distribut
 
 By running and using this software, you agree to the terms and conditions set forth in the (DISCLAIMER.txt) file. You must read this document before the first use.
 
----
 
-## 💬 Support (For Licensed Users)
-
-If you have any questions during installation or about using your 5 authorized Machine IDs, please contact us through the channels provided after your purchase on Payhip.
 
 
 # 🐋 Whale Watcher Pro – Binance Trade Intelligence
